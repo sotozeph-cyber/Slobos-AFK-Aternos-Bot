@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Zeph",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "MavzmSmp.aternos.me",
+    "port": 60595,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -20,15 +20,15 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Zephzm"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
